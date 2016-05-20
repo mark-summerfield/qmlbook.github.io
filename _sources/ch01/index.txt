@@ -266,14 +266,14 @@ Besides the essential modules, Qt offers additional modules for software develop
 
 .. note::
 
-    As these modules are not part of the release the state differ between modules, depending how many contributors are active and how well it's get tested.
+    As these modules are not part of the official release, their individual state will vary, depending how many contributors are active and how well they are tested.
 
 Supported Platforms
 -------------------
 
-Qt supports a variety of platforms. All major desktop and embedded platforms are supported. Through the Qt Application Abstraction, nowadays it's easier to port Qt over to your own platform if required.
+Qt supports a variety of platforms, including all the major desktop and embedded platforms. It is also possible to port Qt to your own platform by using the Qt Application Abstraction.
 
-Testing Qt 5 on a platform is time consuming. A sub-set of platforms was selected by the qt-project to build the reference platforms set. These platforms are thoroughly tested through the system testing to ensure the best quality. Mind you though: no code is error free.
+Testing Qt 5 on a platform is time consuming. A sub-set of platforms has been selected by the qt-project to build the reference platforms set. These platforms are thoroughly tested to ensure that they are of the highest possible quality, and of course, bug tracking and development take place in the open.
 
 
 
@@ -289,6 +289,6 @@ The Qt-Project is an organisation which developes the open-source part of the Qt
 
 Qt has an open-source aspect and a comercial aspect for companies. The comercial aspect is for companies which can not or will not comply with the open-source licenses. Without the comercial aspect these companies would not be able to use Qt and it would not allow DIGIA to contribute so much code to the Qt-Project.
 
-There are many companies world-wide, which make their living out of consultancy and product development using Qt on the various platforms. There are many open-source projects and open-source developers, which rely on Qt as their major development library. It feels good to be part of this vibrant community and to work with this awesome tools and libraries. Does it make you a better person? Maybe:-)
+There are many companies world-wide, which make their living out of consultancy and product development using Qt on the various platforms. There are many open-source projects and open-source developers, which rely on Qt as their major development library. It feels good to be part of this vibrant community and to work with Qt's awesome tools and libraries.
 
 **Contribute here: http://wiki.qt-project.org**
